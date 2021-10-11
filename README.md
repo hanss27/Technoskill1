@@ -1,4 +1,4 @@
-## **Technoskill1 1.0 Competition**
+## **Technoskill 1.0 Competition**
 A Machine Learning competition held by PIPTEK IME FTUI. 
 
 ### **Goals**
